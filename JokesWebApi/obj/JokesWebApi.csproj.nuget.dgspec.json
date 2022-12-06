@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nares\\Downloads\\JokesApp-master\\JokesWebApi\\JokesWebApi.csproj": {}
+    "D:\\My_Cambrian\\Joke-App\\JokesWebApi\\JokesWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nares\\Downloads\\JokesApp-master\\JokesWebApi\\JokesWebApi.csproj": {
+    "D:\\My_Cambrian\\Joke-App\\JokesWebApi\\JokesWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nares\\Downloads\\JokesApp-master\\JokesWebApi\\JokesWebApi.csproj",
+        "projectUniqueName": "D:\\My_Cambrian\\Joke-App\\JokesWebApi\\JokesWebApi.csproj",
         "projectName": "JokesWebApi",
-        "projectPath": "C:\\Users\\nares\\Downloads\\JokesApp-master\\JokesWebApi\\JokesWebApi.csproj",
+        "projectPath": "D:\\My_Cambrian\\Joke-App\\JokesWebApi\\JokesWebApi.csproj",
         "packagesPath": "C:\\Users\\nares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nares\\Downloads\\JokesApp-master\\JokesWebApi\\obj\\",
+        "outputPath": "D:\\My_Cambrian\\Joke-App\\JokesWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
